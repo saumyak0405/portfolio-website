@@ -39,4 +39,4 @@ I’m passionate about **artificial intelligece,finance, machine learning, and s
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+   git clone https://github.com/saumyak0405/portfolio-website.git
